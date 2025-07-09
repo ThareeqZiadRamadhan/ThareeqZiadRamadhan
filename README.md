@@ -1,11 +1,9 @@
 <h2 align="left">Hi 👋! My name is Thareeq Ziad R and I'm a Informatics Studen's, from UPN "VETERAN" JAWA TIMUR</h2>
 
 ###
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThareeqZiadRamadhan&theme=kacho_ga&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ThareeqZiadRamadhan&theme=kacho_ga&show_icons=true&hide_border=true&layout=compact)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
+![GitHub Stats](https://streak-stats.demolab.com?user=ThareeqZiadRamadhan&theme=kacho_ga&hide_border=true)
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
