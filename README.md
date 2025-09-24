@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Thareeq Ziad R and I'm a Informatics Studen's, from UPN "VETERAN" JAWA TIMUR</h2>
 <div style="display: flex; gap: 10px;">
-###
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThareeqZiadRamadhan&theme=kacho_ga&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ThareeqZiadRamadhan&theme=kacho_ga&show_icons=true&hide_border=true&layout=compact)
