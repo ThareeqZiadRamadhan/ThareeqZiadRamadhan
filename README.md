@@ -3,7 +3,7 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThareeqZiadRamadhan&theme=kacho_ga&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ThareeqZiadRamadhan&theme=kacho_ga&show_icons=true&hide_border=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThareeqZiadRamadhan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 </div>
