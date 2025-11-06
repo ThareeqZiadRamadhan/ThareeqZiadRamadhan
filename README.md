@@ -3,6 +3,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThareeqZiadRamadhan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=ThareeqZiadRamadhan)
 
 ###
 </div>
